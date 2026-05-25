@@ -33,8 +33,5 @@ int main()
             cout << "Enter a number from 1-7 you dumbfck";
             break;     
     }
-
-
-    
     return 0;
 }
